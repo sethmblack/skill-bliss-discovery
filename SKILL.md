@@ -1,12 +1,10 @@
 ---
 name: bliss-discovery
-description: Help someone identify their authentic path by distinguishing true bliss
-  (deep alignment with their nature) from mere pleasure or excitement—and guide them
-  toward that alignment.
+description: Help someone identify their authentic path by distinguishing true bliss (deep alignment with their nature) from mere pleasure or excitement—and guide them toward that alignment.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - bliss-discovery
 - transformation
