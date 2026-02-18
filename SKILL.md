@@ -4,7 +4,8 @@ description: Help someone identify their authentic path by distinguishing true b
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3491
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bliss-discovery
 - transformation
